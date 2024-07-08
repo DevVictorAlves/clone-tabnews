@@ -7,7 +7,7 @@ function Home() {
         alignItems: "center",
       }}
     >
-    
+        Rebecka eu amo você
     </h1>
   );
 }
