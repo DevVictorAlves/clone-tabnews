@@ -7,7 +7,7 @@ function Home() {
         alignItems: "center",
       }}
     >
-      Rebecka eu amo você
+      mEE PERDOOOAA AMORRRRR FICA ASSIM CMG NÃOOOO PFFF AMORRR
     </h1>
   );
 }
