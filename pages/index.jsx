@@ -7,7 +7,7 @@ function Home() {
         alignItems: "center",
       }}
     >
-      mEE PERDOOOAA AMORRRRR FICA ASSIM CMG NÃOOOO PFFF AMORRR
+      Site teste
     </h1>
   );
 }
