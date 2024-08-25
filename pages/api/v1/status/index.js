@@ -2,6 +2,7 @@ import database from "infra/database.js";
 
 export default async function status(request, response) {
   const dataBaseVersionResult = await database.query("SHOW server_version;");
+
   const dataBaseVersionValue = dataBaseVersionResult.rows[0].server_version;
 
   const dataBaseMaxConnectionResult = await database.query(
