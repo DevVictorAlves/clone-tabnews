@@ -3,7 +3,7 @@ import database from "infra/database";
 
 beforeAll(async () => {
   await orchestrator.waitForAllServices();
-})
+});
 
 beforeAll(cleanDatabase);
 async function cleanDatabase() {
